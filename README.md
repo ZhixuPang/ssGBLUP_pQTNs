@@ -1,7 +1,5 @@
 # ssGBLUP_pQTNs
 
-Sure! Here's an English version of the README file for your GitHub project:
-
 ---
 
 # Genomic Prediction Analysis Example
